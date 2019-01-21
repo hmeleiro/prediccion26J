@@ -4,5 +4,7 @@
 
 El script explica cómo realizar con R una cocina electoral empleando diferentes técnicas: post estratificación, filtro de votantes improbables, imputación de voto a los indecisos mediante un algoritmo de machine learning y corrección por recuerdo de voto.
 
+Se puede consultar un [html aquí](https://htmlpreview.github.io/?https://github.com/meneos/prediccion26J/blob/master/prediccion.nb.html).
+
 Se emplean datos de la encuesta preelectoral del 26 de Junio de 2016 del [CIS](http://www.cis.es/cis/opencm/ES/1_encuestas/estudios/ver.jsp?estudio=14285&cuestionario=17146&muestra=23659) (estudio 3141).
 
